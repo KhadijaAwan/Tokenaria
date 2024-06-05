@@ -7,7 +7,7 @@ import Providers from "./components/provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Token Handler",
+  title: "Tokenaria",
   description: "It is an token handling application which refreshes the token in nextjs using next auth after 9 minutes because after 10 minutes access tokne is expired.",
   icons: {
     icon: ["/favicon.ico?v=4"],
