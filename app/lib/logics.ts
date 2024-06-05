@@ -1,3 +1,4 @@
+"use client";
 import axiosInstance from "./axiosInstance";
 
 const refreshTokenInterval = 9 * 60 * 1000;
